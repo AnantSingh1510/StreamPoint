@@ -1,4 +1,4 @@
-# Video Streaming Platform
+# StreamPoint - Stream videos effortlessly
 
 A video streaming platform with a Spring Boot backend and a React frontend. Users can upload videos along with thumbnails, and stream videos directly from the platform. With a responsive and easy to use interface with great video streaming quality and efficiency, StreamPoint could be a very handy web app for uploading and streaming videos.
 
