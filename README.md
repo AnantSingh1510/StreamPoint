@@ -41,7 +41,8 @@ This project is also AWS Elastic Beanstalk and AWS RDS ready.
 
 - Spring Boot (Backend)
 - React with Chakra UI (Frontend)
-- AWS S3 for storage (optional)
+- AWS S3 for video and video thumbnail storage 
+- MySQL database for storing video metadata and video/thumbnail URLs in AWS S3 database
 
 ## Getting Started
 
