@@ -8,14 +8,17 @@ This project is also AWS Elastic Beanstalk and AWS RDS ready.
 
 ### Screenshots
 
-#### Upload Video
-![Upload Video](screenshots/Screenshot-upload.png)
+#### Homepage
+![Video List](screenshots/Screenshot-home.png)
 
 #### Video List
 ![Video List](screenshots/Screenshot-list.png)
 
 #### Video Playback
 ![Video Playback](screenshots/Screenshot-playing.png)
+
+#### Upload Video
+![Upload Video](screenshots/Screenshot-upload.png)
 
 #### Video Playback
 ![Mobile Video List](screenshots/Screenshot-mobileList.jpeg)
