@@ -6,6 +6,20 @@ The main aim of this project is to allow seamless video sharing between users wi
 
 This project is also AWS Elastic Beanstalk and AWS RDS ready.
 
+### Screenshots
+
+#### Upload Video
+![Upload Video](screenshots/Screenshot-upload.png)
+
+#### Video List
+![Video List](screenshots/Screenshot-list.png)
+
+#### Video Playback
+![Video Playback](screenshots/Screenshot-playing.png)
+
+#### Video Playback
+![Mobile Video List](screenshots/Screenshot-mobileList.jpeg)
+
 ## This project uses ->
 - React (Front end)
 - Spring Boot (Backend)
@@ -95,20 +109,6 @@ This project is also AWS Elastic Beanstalk and AWS RDS ready.
 - Open your browser and navigate to `http://localhost:3000`.
 - Upload a video with a title, description and thumbnail.
 - Stream the uploaded video.
-
-### Screenshots
-
-#### Upload Video
-![Upload Video](screenshots/Screenshot-upload.png)
-
-#### Video List
-![Video List](screenshots/Screenshot-list.png)
-
-#### Video Playback
-![Video Playback](screenshots/Screenshot-playing.png)
-
-#### Video Playback
-![Mobile Video List](screenshots/Screenshot-mobileList.jpeg)
 
 ## License
 
